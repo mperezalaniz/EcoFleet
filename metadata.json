@@ -1,0 +1,5 @@
+{
+  "name": "EcoFleet Mining Calculator",
+  "description": "A professional ESG dashboard for mining fleets to calculate CO2e emissions and financial carbon risk in real-time.",
+  "requestFramePermissions": []
+}
